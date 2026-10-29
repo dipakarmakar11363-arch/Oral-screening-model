@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Modal Oral & Facial Health Screener",
+  "description": "An interactive educational exhibition prototype demonstrating multi-modal oral and facial health screening using visual observations and lifestyle questionnaire analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
